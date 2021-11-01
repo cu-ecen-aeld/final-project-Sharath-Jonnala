@@ -13,4 +13,4 @@ Detailed project overview can be found here: [Project Overview](https://github.c
 ## Source Code Organization
 * [Transmitter Repository](https://github.com/cu-ecen-aeld/final-project-chaisuresh)
 * [Receiver Repository](https://github.com/cu-ecen-aeld/final-project-Sharath-Jonnala)
-* Shared Code : TBA
+* [Shared code](https://github.com/cu-ecen-aeld/final-project-chaithra-sharath)
