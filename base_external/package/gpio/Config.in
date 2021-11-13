@@ -1,0 +1,6 @@
+
+config BR2_PACKAGE_GPIO
+	bool "gpio"
+	help
+	  Includes the writer executables, for gpio functionality verification in the kernel image.
+	  Used to understand buildroot external trees and package builds.
