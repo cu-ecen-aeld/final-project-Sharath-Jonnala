@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_SOLARCELL
+	bool "solarcell"
+	help
+	  Includes the writer executables, for solarcell functionality
