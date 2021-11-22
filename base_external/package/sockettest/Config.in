@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_SOCKETTEST
+	bool "sockettest"
+	help
+	  Includes the writer executables, for socket test
