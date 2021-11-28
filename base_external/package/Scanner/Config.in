@@ -1,0 +1,6 @@
+
+config BR2_PACKAGE_SCANNER
+	bool "Scanner"
+	help
+	  Includes the writer executables, for the final 2d scanner functionality in the kernel image.
+	  Used to understand buildroot external trees and package builds.

@@ -1,3 +1,4 @@
 source "$BR2_EXTERNAL_project_base_PATH/package/gpio/Config.in"
 source "$BR2_EXTERNAL_project_base_PATH/package/solarcell/Config.in"
 source "$BR2_EXTERNAL_project_base_PATH/package/sockettest/Config.in"
+source "$BR2_EXTERNAL_project_base_PATH/package/Scanner/Config.in"
