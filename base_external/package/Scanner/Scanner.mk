@@ -6,7 +6,7 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-SCANNER_VERSION = '3627b10bde48f75c4c15e6f50bea13c38cc0b097'
+SCANNER_VERSION = 'cbc86d9ce9cfd8295eb4d0fcd3fc1d0235d53c59'
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
