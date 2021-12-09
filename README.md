@@ -16,4 +16,4 @@ Detailed project overview can be found here: [Project Overview](https://github.c
 * [Shared code](https://github.com/cu-ecen-aeld/final-project-chaithra-sharath)
 
 ## Demo outline wiki
-* https://github.com/cu-ecen-aeld/final-project-chaithra-sharath/wiki/Sharath-Jonnala-DemoVideo
+* [Demo outline](https://github.com/cu-ecen-aeld/final-project-chaithra-sharath/wiki/Sharath-Jonnala-DemoVideo)
