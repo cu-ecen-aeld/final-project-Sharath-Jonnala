@@ -14,3 +14,6 @@ Detailed project overview can be found here: [Project Overview](https://github.c
 * [Transmitter Repository](https://github.com/cu-ecen-aeld/final-project-chaisuresh)
 * [Receiver Repository](https://github.com/cu-ecen-aeld/final-project-Sharath-Jonnala)
 * [Shared code](https://github.com/cu-ecen-aeld/final-project-chaithra-sharath)
+
+## Demo outline wiki
+* https://github.com/cu-ecen-aeld/final-project-chaithra-sharath/wiki/Sharath-Jonnala-DemoVideo
